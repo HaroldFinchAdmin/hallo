@@ -1,0 +1,1059 @@
+﻿"Bundesland / Messnetz";Stationscode;Stationsname;Stationsumgebung;"Art der Station";Schadstoff;"Art der Auswertung";Datum;Uhrzeit;Messwert;Einheit
+Brandenburg;DEBB021;Potsdam-Zentrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Brandenburg;DEBB021;Potsdam-Zentrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;122;µg/m³
+Brandenburg;DEBB021;Potsdam-Zentrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;166;µg/m³
+Brandenburg;DEBB021;Potsdam-Zentrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;120;µg/m³
+Brandenburg;DEBB048;Neuruppin;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;150;µg/m³
+Brandenburg;DEBB048;Neuruppin;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Brandenburg;DEBB048;Neuruppin;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;140;µg/m³
+Brandenburg;DEBB048;Neuruppin;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;144;µg/m³
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;164;µg/m³
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;133;µg/m³
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;122;µg/m³
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;153;µg/m³
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;128;µg/m³
+Brandenburg;DEBB063;Wittenberge;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Brandenburg;DEBB063;Wittenberge;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Brandenburg;DEBB063;Wittenberge;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Brandenburg;DEBB063;Wittenberge;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;116;µg/m³
+Brandenburg;DEBB064;Cottbus;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Brandenburg;DEBB064;Cottbus;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;152;µg/m³
+Brandenburg;DEBB064;Cottbus;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;164;µg/m³
+Brandenburg;DEBB064;Cottbus;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;142;µg/m³
+Brandenburg;DEBB065;"Lütte (Belzig)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Brandenburg;DEBB065;"Lütte (Belzig)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Brandenburg;DEBB065;"Lütte (Belzig)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;157;µg/m³
+Brandenburg;DEBB065;"Lütte (Belzig)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;120;µg/m³
+Brandenburg;DEBB066;Spreewald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Brandenburg;DEBB066;Spreewald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Brandenburg;DEBB066;Spreewald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;147;µg/m³
+Brandenburg;DEBB066;Spreewald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;131;µg/m³
+Brandenburg;DEBB067;Nauen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Brandenburg;DEBB067;Nauen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;125;µg/m³
+Brandenburg;DEBB067;Nauen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;150;µg/m³
+Brandenburg;DEBB067;Nauen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;126;µg/m³
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;156;µg/m³
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Brandenburg;DEBB083;Spremberg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Brandenburg;DEBB083;Spremberg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Brandenburg;DEBB083;Spremberg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;146;µg/m³
+Brandenburg;DEBB083;Spremberg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;125;µg/m³
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;148;µg/m³
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;163;µg/m³
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;127;µg/m³
+Brandenburg;DEBB092;"Frankfurt (Oder)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Brandenburg;DEBB092;"Frankfurt (Oder)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Brandenburg;DEBB092;"Frankfurt (Oder)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Brandenburg;DEBB092;"Frankfurt (Oder)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;151;µg/m³
+Brandenburg;DEBB109;Luckenwalde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Brandenburg;DEBB109;Luckenwalde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;124;µg/m³
+Brandenburg;DEBB109;Luckenwalde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;151;µg/m³
+Brandenburg;DEBB109;Luckenwalde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;114;µg/m³
+Berlin;DEBE010;"Berlin Wedding";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;138;µg/m³
+Berlin;DEBE010;"Berlin Wedding";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Berlin;DEBE010;"Berlin Wedding";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;160;µg/m³
+Berlin;DEBE010;"Berlin Wedding";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;132;µg/m³
+Berlin;DEBE027;"Berlin Marienfelde";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Berlin;DEBE027;"Berlin Marienfelde";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Berlin;DEBE027;"Berlin Marienfelde";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;169;µg/m³
+Berlin;DEBE027;"Berlin Marienfelde";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;133;µg/m³
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;148;µg/m³
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;129;µg/m³
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;166;µg/m³
+Berlin;DEBE032;"Berlin Grunewald (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;131;µg/m³
+Berlin;DEBE034;"Berlin Neukölln";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Berlin;DEBE034;"Berlin Neukölln";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Berlin;DEBE034;"Berlin Neukölln";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;170;µg/m³
+Berlin;DEBE034;"Berlin Neukölln";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;134;µg/m³
+Berlin;DEBE051;"Berlin Buch";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Berlin;DEBE051;"Berlin Buch";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;129;µg/m³
+Berlin;DEBE051;"Berlin Buch";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;172;µg/m³
+Berlin;DEBE051;"Berlin Buch";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;130;µg/m³
+Berlin;DEBE056;"Berlin Friedrichshagen";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Berlin;DEBE056;"Berlin Friedrichshagen";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Berlin;DEBE056;"Berlin Friedrichshagen";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;159;µg/m³
+Berlin;DEBE056;"Berlin Friedrichshagen";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;137;µg/m³
+Berlin;DEBE062;"Berlin Frohnau (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;151;µg/m³
+Berlin;DEBE062;"Berlin Frohnau (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Berlin;DEBE062;"Berlin Frohnau (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;171;µg/m³
+Berlin;DEBE062;"Berlin Frohnau (3.5 m)";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;137;µg/m³
+Baden-Württemberg;DEBW004;Eggenstein;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;162;µg/m³
+Baden-Württemberg;DEBW004;Eggenstein;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;162;µg/m³
+Baden-Württemberg;DEBW004;Eggenstein;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Baden-Württemberg;DEBW004;Eggenstein;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;88;µg/m³
+Baden-Württemberg;DEBW009;Heidelberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;169;µg/m³
+Baden-Württemberg;DEBW009;Heidelberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;166;µg/m³
+Baden-Württemberg;DEBW009;Heidelberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;144;µg/m³
+Baden-Württemberg;DEBW009;Heidelberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;120;µg/m³
+Baden-Württemberg;DEBW010;Wiesloch;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;176;µg/m³
+Baden-Württemberg;DEBW010;Wiesloch;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;175;µg/m³
+Baden-Württemberg;DEBW010;Wiesloch;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;138;µg/m³
+Baden-Württemberg;DEBW010;Wiesloch;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;123;µg/m³
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;177;µg/m³
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;89;µg/m³
+Baden-Württemberg;DEBW015;Heilbronn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;170;µg/m³
+Baden-Württemberg;DEBW015;Heilbronn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;158;µg/m³
+Baden-Württemberg;DEBW015;Heilbronn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;130;µg/m³
+Baden-Württemberg;DEBW015;Heilbronn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;115;µg/m³
+Baden-Württemberg;DEBW019;Ulm;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;161;µg/m³
+Baden-Württemberg;DEBW019;Ulm;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Baden-Württemberg;DEBW019;Ulm;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;137;µg/m³
+Baden-Württemberg;DEBW019;Ulm;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;80;µg/m³
+Baden-Württemberg;DEBW023;"Weil am Rhein";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;129;µg/m³
+Baden-Württemberg;DEBW023;"Weil am Rhein";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Baden-Württemberg;DEBW023;"Weil am Rhein";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;123;µg/m³
+Baden-Württemberg;DEBW023;"Weil am Rhein";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Baden-Württemberg;DEBW024;Ludwigsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;163;µg/m³
+Baden-Württemberg;DEBW024;Ludwigsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;153;µg/m³
+Baden-Württemberg;DEBW024;Ludwigsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Baden-Württemberg;DEBW024;Ludwigsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Baden-Württemberg;DEBW027;Reutlingen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+Baden-Württemberg;DEBW027;Reutlingen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Baden-Württemberg;DEBW027;Reutlingen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;130;µg/m³
+Baden-Württemberg;DEBW027;Reutlingen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;124;µg/m³
+Baden-Württemberg;DEBW029;Aalen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;137;µg/m³
+Baden-Württemberg;DEBW029;Aalen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;153;µg/m³
+Baden-Württemberg;DEBW029;Aalen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;136;µg/m³
+Baden-Württemberg;DEBW029;Aalen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;127;µg/m³
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;115;µg/m³
+Baden-Württemberg;DEBW033;Pforzheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;154;µg/m³
+Baden-Württemberg;DEBW033;Pforzheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Baden-Württemberg;DEBW033;Pforzheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Baden-Württemberg;DEBW033;Pforzheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Baden-Württemberg;DEBW038;Friedrichshafen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;172;µg/m³
+Baden-Württemberg;DEBW038;Friedrichshafen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;173;µg/m³
+Baden-Württemberg;DEBW038;Friedrichshafen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;141;µg/m³
+Baden-Württemberg;DEBW038;Friedrichshafen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;120;µg/m³
+Baden-Württemberg;DEBW039;Villingen-Schwenningen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;84;µg/m³
+Baden-Württemberg;DEBW042;Bernhausen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;163;µg/m³
+Baden-Württemberg;DEBW042;Bernhausen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Baden-Württemberg;DEBW042;Bernhausen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Baden-Württemberg;DEBW042;Bernhausen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Baden-Württemberg;DEBW046;Biberach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+Baden-Württemberg;DEBW046;Biberach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Baden-Württemberg;DEBW046;Biberach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;143;µg/m³
+Baden-Württemberg;DEBW046;Biberach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;73;µg/m³
+Baden-Württemberg;DEBW052;Konstanz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;167;µg/m³
+Baden-Württemberg;DEBW052;Konstanz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;171;µg/m³
+Baden-Württemberg;DEBW052;Konstanz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;143;µg/m³
+Baden-Württemberg;DEBW052;Konstanz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;112;µg/m³
+Baden-Württemberg;DEBW059;Tauberbischofsheim;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Baden-Württemberg;DEBW073;Neuenburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;138;µg/m³
+Baden-Württemberg;DEBW073;Neuenburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;148;µg/m³
+Baden-Württemberg;DEBW073;Neuenburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;138;µg/m³
+Baden-Württemberg;DEBW073;Neuenburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Baden-Württemberg;DEBW076;Baden-Baden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;148;µg/m³
+Baden-Württemberg;DEBW076;Baden-Baden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;183;µg/m³
+Baden-Württemberg;DEBW076;Baden-Baden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Baden-Württemberg;DEBW076;Baden-Baden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;111;µg/m³
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;172;µg/m³
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;162;µg/m³
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;89;µg/m³
+Baden-Württemberg;DEBW084;Freiburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Baden-Württemberg;DEBW084;Freiburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;163;µg/m³
+Baden-Württemberg;DEBW084;Freiburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Baden-Württemberg;DEBW084;Freiburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;134;µg/m³
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;129;µg/m³
+Baden-Württemberg;DEBW107;Tübingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Baden-Württemberg;DEBW107;Tübingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Baden-Württemberg;DEBW107;Tübingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;126;µg/m³
+Baden-Württemberg;DEBW107;Tübingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;83;µg/m³
+Baden-Württemberg;DEBW112;Gärtringen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;158;µg/m³
+Baden-Württemberg;DEBW112;Gärtringen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Baden-Württemberg;DEBW112;Gärtringen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Baden-Württemberg;DEBW112;Gärtringen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;88;µg/m³
+Bayern;DEBY002;Arzberg/Egerstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;119;µg/m³
+Bayern;DEBY002;Arzberg/Egerstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Bayern;DEBY002;Arzberg/Egerstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;139;µg/m³
+Bayern;DEBY002;Arzberg/Egerstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Bayern;DEBY004;"Kleinwallstadt/Hofstetter Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+Bayern;DEBY004;"Kleinwallstadt/Hofstetter Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Bayern;DEBY004;"Kleinwallstadt/Hofstetter Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Bayern;DEBY004;"Kleinwallstadt/Hofstetter Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Bayern;DEBY005;Aschaffenburg/Bussardweg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Bayern;DEBY005;Aschaffenburg/Bussardweg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bayern;DEBY005;Aschaffenburg/Bussardweg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;128;µg/m³
+Bayern;DEBY005;Aschaffenburg/Bussardweg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Bayern;DEBY007;Augsburg/Bourges-Platz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Bayern;DEBY007;Augsburg/Bourges-Platz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;167;µg/m³
+Bayern;DEBY007;Augsburg/Bourges-Platz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;155;µg/m³
+Bayern;DEBY007;Augsburg/Bourges-Platz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Bayern;DEBY012;"Burghausen/Marktler Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Bayern;DEBY012;"Burghausen/Marktler Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Bayern;DEBY012;"Burghausen/Marktler Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;159;µg/m³
+Bayern;DEBY012;"Burghausen/Marktler Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;131;µg/m³
+Bayern;DEBY013;Mehring/Sportplatz;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;153;µg/m³
+Bayern;DEBY013;Mehring/Sportplatz;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;144;µg/m³
+Bayern;DEBY013;Mehring/Sportplatz;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;171;µg/m³
+Bayern;DEBY013;Mehring/Sportplatz;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;135;µg/m³
+Bayern;DEBY020;Hof/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;122;µg/m³
+Bayern;DEBY020;Hof/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;131;µg/m³
+Bayern;DEBY020;Hof/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Bayern;DEBY020;Hof/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Bayern;DEBY026;"Vohburg a.d. Donau/Alter Wöhrer Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Bayern;DEBY026;"Vohburg a.d. Donau/Alter Wöhrer Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Bayern;DEBY026;"Vohburg a.d. Donau/Alter Wöhrer Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;151;µg/m³
+Bayern;DEBY026;"Vohburg a.d. Donau/Alter Wöhrer Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+Bayern;DEBY030;"Saal a.d. Donau/Regensburger Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;115;µg/m³
+Bayern;DEBY030;"Saal a.d. Donau/Regensburger Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;116;µg/m³
+Bayern;DEBY030;"Saal a.d. Donau/Regensburger Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;129;µg/m³
+Bayern;DEBY030;"Saal a.d. Donau/Regensburger Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Bayern;DEBY031;"Kempten (Allgäu)/Westendstraße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+Bayern;DEBY031;"Kempten (Allgäu)/Westendstraße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;148;µg/m³
+Bayern;DEBY031;"Kempten (Allgäu)/Westendstraße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;134;µg/m³
+Bayern;DEBY031;"Kempten (Allgäu)/Westendstraße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Bayern;DEBY039;München/Lothstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;148;µg/m³
+Bayern;DEBY039;München/Lothstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;166;µg/m³
+Bayern;DEBY039;München/Lothstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;169;µg/m³
+Bayern;DEBY039;München/Lothstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Bayern;DEBY047;"Naila/Selbitzer Berg";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;122;µg/m³
+Bayern;DEBY047;"Naila/Selbitzer Berg";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Bayern;DEBY047;"Naila/Selbitzer Berg";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Bayern;DEBY047;"Naila/Selbitzer Berg";"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Bayern;DEBY049;"Neustadt a.d. Donau/Eining";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Bayern;DEBY049;"Neustadt a.d. Donau/Eining";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Bayern;DEBY049;"Neustadt a.d. Donau/Eining";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;152;µg/m³
+Bayern;DEBY049;"Neustadt a.d. Donau/Eining";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Bayern;DEBY052;Neu-Ulm/Gabelsbergerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;165;µg/m³
+Bayern;DEBY052;Neu-Ulm/Gabelsbergerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Bayern;DEBY052;Neu-Ulm/Gabelsbergerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;141;µg/m³
+Bayern;DEBY052;Neu-Ulm/Gabelsbergerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Bayern;DEBY058;Nürnberg/Muggenhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;138;µg/m³
+Bayern;DEBY058;Nürnberg/Muggenhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;161;µg/m³
+Bayern;DEBY058;Nürnberg/Muggenhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;152;µg/m³
+Bayern;DEBY058;Nürnberg/Muggenhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Bayern;DEBY062;"Regen/Bodenmaiser Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Bayern;DEBY062;"Regen/Bodenmaiser Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;126;µg/m³
+Bayern;DEBY062;"Regen/Bodenmaiser Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Bayern;DEBY062;"Regen/Bodenmaiser Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;118;µg/m³
+Bayern;DEBY067;"Schwandorf/Wackersdorfer Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;121;µg/m³
+Bayern;DEBY067;"Schwandorf/Wackersdorfer Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;143;µg/m³
+Bayern;DEBY067;"Schwandorf/Wackersdorfer Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;158;µg/m³
+Bayern;DEBY067;"Schwandorf/Wackersdorfer Straße";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;89;µg/m³
+Bayern;DEBY068;Schweinfurt/Obertor;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Bayern;DEBY068;Schweinfurt/Obertor;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bayern;DEBY068;Schweinfurt/Obertor;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Bayern;DEBY068;Schweinfurt/Obertor;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Bayern;DEBY072;Tiefenbach/Altenschneeberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;123;µg/m³
+Bayern;DEBY072;Tiefenbach/Altenschneeberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Bayern;DEBY072;Tiefenbach/Altenschneeberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;142;µg/m³
+Bayern;DEBY072;Tiefenbach/Altenschneeberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;126;µg/m³
+Bayern;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;112;µg/m³
+Bayern;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Bayern;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Bayern;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;81;µg/m³
+Bayern;DEBY077;Würzburg/Kopfklinik;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Bayern;DEBY077;Würzburg/Kopfklinik;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bayern;DEBY077;Würzburg/Kopfklinik;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;125;µg/m³
+Bayern;DEBY077;Würzburg/Kopfklinik;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Bayern;DEBY079;"Bad Reichenhall/Kirchholzstraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Bayern;DEBY079;"Bad Reichenhall/Kirchholzstraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Bayern;DEBY079;"Bad Reichenhall/Kirchholzstraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;145;µg/m³
+Bayern;DEBY079;"Bad Reichenhall/Kirchholzstraße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Bayern;DEBY088;Trostberg/Schwimmbadstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;153;µg/m³
+Bayern;DEBY088;Trostberg/Schwimmbadstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;157;µg/m³
+Bayern;DEBY088;Trostberg/Schwimmbadstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Bayern;DEBY088;Trostberg/Schwimmbadstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;136;µg/m³
+Bayern;DEBY089;München/Johanneskirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Bayern;DEBY089;München/Johanneskirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;158;µg/m³
+Bayern;DEBY089;München/Johanneskirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;159;µg/m³
+Bayern;DEBY089;München/Johanneskirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Bayern;DEBY093;Sulzbach-Rosenberg/Lohe;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;124;µg/m³
+Bayern;DEBY093;Sulzbach-Rosenberg/Lohe;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;140;µg/m³
+Bayern;DEBY093;Sulzbach-Rosenberg/Lohe;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;150;µg/m³
+Bayern;DEBY093;Sulzbach-Rosenberg/Lohe;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Bayern;DEBY099;Augsburg/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;154;µg/m³
+Bayern;DEBY099;Augsburg/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;173;µg/m³
+Bayern;DEBY099;Augsburg/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;156;µg/m³
+Bayern;DEBY099;Augsburg/LfU;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+Bayern;DEBY109;Andechs/Rothenfeld;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Bayern;DEBY109;Andechs/Rothenfeld;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;156;µg/m³
+Bayern;DEBY109;Andechs/Rothenfeld;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Bayern;DEBY109;Andechs/Rothenfeld;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Bayern;DEBY113;Erlangen/Kraepelinstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Bayern;DEBY113;Erlangen/Kraepelinstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;169;µg/m³
+Bayern;DEBY113;Erlangen/Kraepelinstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;137;µg/m³
+Bayern;DEBY113;Erlangen/Kraepelinstraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Bayern;DEBY122;"Bad Hindelang/Oberjoch";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Bayern;DEBY122;"Bad Hindelang/Oberjoch";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;139;µg/m³
+Bayern;DEBY122;"Bad Hindelang/Oberjoch";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;134;µg/m³
+Bayern;DEBY122;"Bad Hindelang/Oberjoch";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Bayern;DEBY124;"Burgbernheim/Grüne Au";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;132;µg/m³
+Bayern;DEBY124;"Burgbernheim/Grüne Au";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Bayern;DEBY124;"Burgbernheim/Grüne Au";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Bayern;DEBY124;"Burgbernheim/Grüne Au";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;114;µg/m³
+Bayern;DEBY187;Oettingen/Goethestraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Bayern;DEBY187;Oettingen/Goethestraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;158;µg/m³
+Bayern;DEBY187;Oettingen/Goethestraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;142;µg/m³
+Bayern;DEBY187;Oettingen/Goethestraße;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;84;µg/m³
+Bayern;DEBY188;Schwabach/Angerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Bayern;DEBY188;Schwabach/Angerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Bayern;DEBY188;Schwabach/Angerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;146;µg/m³
+Bayern;DEBY188;Schwabach/Angerstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;76;µg/m³
+Bayern;DEBY189;München/Allach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;138;µg/m³
+Bayern;DEBY189;München/Allach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;158;µg/m³
+Bayern;DEBY189;München/Allach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;167;µg/m³
+Bayern;DEBY189;München/Allach;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Bayern;DEBY196;Garmisch-Partenkirchen/Wasserwerk;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;146;µg/m³
+Bayern;DEBY196;Garmisch-Partenkirchen/Wasserwerk;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bayern;DEBY196;Garmisch-Partenkirchen/Wasserwerk;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;144;µg/m³
+Bayern;DEBY196;Garmisch-Partenkirchen/Wasserwerk;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;101;µg/m³
+Bremen;DEHB001;Bremen-Mitte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;153;µg/m³
+Bremen;DEHB001;Bremen-Mitte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;149;µg/m³
+Bremen;DEHB001;Bremen-Mitte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Bremen;DEHB001;Bremen-Mitte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;106;µg/m³
+Bremen;DEHB002;Bremen-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Bremen;DEHB002;Bremen-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bremen;DEHB002;Bremen-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Bremen;DEHB002;Bremen-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Bremen;DEHB004;Bremen-Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Bremen;DEHB004;Bremen-Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Bremen;DEHB004;Bremen-Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;115;µg/m³
+Bremen;DEHB004;Bremen-Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;101;µg/m³
+Bremen;DEHB005;Bremerhaven-Hansastraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;156;µg/m³
+Bremen;DEHB005;Bremerhaven-Hansastraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;126;µg/m³
+Bremen;DEHB005;Bremerhaven-Hansastraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;105;µg/m³
+Bremen;DEHB005;Bremerhaven-Hansastraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;81;µg/m³
+Hessen;DEHE001;Darmstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;155;µg/m³
+Hessen;DEHE001;Darmstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Hessen;DEHE001;Darmstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Hessen;DEHE001;Darmstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Hessen;DEHE005;Frankfurt-Höchst;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;165;µg/m³
+Hessen;DEHE005;Frankfurt-Höchst;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;171;µg/m³
+Hessen;DEHE005;Frankfurt-Höchst;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Hessen;DEHE005;Frankfurt-Höchst;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;106;µg/m³
+Hessen;DEHE008;"Frankfurt Ost";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Hessen;DEHE008;"Frankfurt Ost";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Hessen;DEHE008;"Frankfurt Ost";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;123;µg/m³
+Hessen;DEHE008;"Frankfurt Ost";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Hessen;DEHE011;Hanau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;151;µg/m³
+Hessen;DEHE011;Hanau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;156;µg/m³
+Hessen;DEHE011;Hanau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Hessen;DEHE011;Hanau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Hessen;DEHE013;"Kassel Mitte";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;152;µg/m³
+Hessen;DEHE013;"Kassel Mitte";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;170;µg/m³
+Hessen;DEHE013;"Kassel Mitte";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Hessen;DEHE013;"Kassel Mitte";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;110;µg/m³
+Hessen;DEHE018;Raunheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;170;µg/m³
+Hessen;DEHE018;Raunheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;196;µg/m³
+Hessen;DEHE018;Raunheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;139;µg/m³
+Hessen;DEHE018;Raunheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;105;µg/m³
+Hessen;DEHE020;Wetzlar;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;174;µg/m³
+Hessen;DEHE020;Wetzlar;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Hessen;DEHE020;Wetzlar;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;120;µg/m³
+Hessen;DEHE020;Wetzlar;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Hessen;DEHE022;"Wiesbaden Süd";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;179;µg/m³
+Hessen;DEHE022;"Wiesbaden Süd";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;176;µg/m³
+Hessen;DEHE022;"Wiesbaden Süd";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;150;µg/m³
+Hessen;DEHE022;"Wiesbaden Süd";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Hessen;DEHE024;Witzenhausen/Wald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Hessen;DEHE024;Witzenhausen/Wald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;152;µg/m³
+Hessen;DEHE024;Witzenhausen/Wald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;130;µg/m³
+Hessen;DEHE024;Witzenhausen/Wald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;113;µg/m³
+Hessen;DEHE026;Spessart;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Hessen;DEHE026;Spessart;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Hessen;DEHE026;Spessart;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Hessen;DEHE026;Spessart;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Hessen;DEHE028;Fürth/Odenwald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;162;µg/m³
+Hessen;DEHE028;Fürth/Odenwald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;161;µg/m³
+Hessen;DEHE028;Fürth/Odenwald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Hessen;DEHE028;Fürth/Odenwald;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;128;µg/m³
+Hessen;DEHE030;Marburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;164;µg/m³
+Hessen;DEHE030;Marburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;155;µg/m³
+Hessen;DEHE030;Marburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;133;µg/m³
+Hessen;DEHE030;Marburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;108;µg/m³
+Hessen;DEHE032;Bebra;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Hessen;DEHE032;Bebra;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;139;µg/m³
+Hessen;DEHE032;Bebra;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;110;µg/m³
+Hessen;DEHE032;Bebra;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Hessen;DEHE039;"Burg Herzberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;121;µg/m³
+Hessen;DEHE039;"Burg Herzberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Hessen;DEHE039;"Burg Herzberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;115;µg/m³
+Hessen;DEHE039;"Burg Herzberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Hessen;DEHE042;Linden/Leihgestern;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;192;µg/m³
+Hessen;DEHE042;Linden/Leihgestern;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;177;µg/m³
+Hessen;DEHE042;Linden/Leihgestern;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;160;µg/m³
+Hessen;DEHE042;Linden/Leihgestern;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;108;µg/m³
+Hessen;DEHE043;Riedstadt;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;174;µg/m³
+Hessen;DEHE043;Riedstadt;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;196;µg/m³
+Hessen;DEHE043;Riedstadt;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;141;µg/m³
+Hessen;DEHE043;Riedstadt;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;112;µg/m³
+Hessen;DEHE044;Limburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;180;µg/m³
+Hessen;DEHE044;Limburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;178;µg/m³
+Hessen;DEHE044;Limburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Hessen;DEHE044;Limburg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;110;µg/m³
+Hessen;DEHE045;Michelstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;164;µg/m³
+Hessen;DEHE045;Michelstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Hessen;DEHE045;Michelstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Hessen;DEHE045;Michelstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;119;µg/m³
+Hessen;DEHE046;"Bad Arolsen";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Hessen;DEHE046;"Bad Arolsen";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Hessen;DEHE046;"Bad Arolsen";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Hessen;DEHE046;"Bad Arolsen";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Hessen;DEHE050;Zierenberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;132;µg/m³
+Hessen;DEHE050;Zierenberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Hessen;DEHE050;Zierenberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;135;µg/m³
+Hessen;DEHE050;Zierenberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;87;µg/m³
+Hessen;DEHE051;Wasserkuppe;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;-;µg/m³
+Hessen;DEHE051;Wasserkuppe;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;157;µg/m³
+Hessen;DEHE051;Wasserkuppe;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;160;µg/m³
+Hessen;DEHE051;Wasserkuppe;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;138;µg/m³
+Hessen;DEHE052;"Kleiner Feldberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;184;µg/m³
+Hessen;DEHE052;"Kleiner Feldberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;189;µg/m³
+Hessen;DEHE052;"Kleiner Feldberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;145;µg/m³
+Hessen;DEHE052;"Kleiner Feldberg";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;127;µg/m³
+Hessen;DEHE060;Kellerwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;146;µg/m³
+Hessen;DEHE060;Kellerwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;149;µg/m³
+Hessen;DEHE060;Kellerwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;111;µg/m³
+Hessen;DEHE060;Kellerwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Hessen;DEHE134;"Fulda Zentral";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Hessen;DEHE134;"Fulda Zentral";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Hessen;DEHE134;"Fulda Zentral";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Hessen;DEHE134;"Fulda Zentral";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+Hessen;DEHE135;Frankfurt-Schwanheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;173;µg/m³
+Hessen;DEHE135;Frankfurt-Schwanheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;155;µg/m³
+Hessen;DEHE135;Frankfurt-Schwanheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;135;µg/m³
+Hessen;DEHE135;Frankfurt-Schwanheim;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;104;µg/m³
+Hamburg;DEHH008;"Hamburg Sternschanze";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;146;µg/m³
+Hamburg;DEHH008;"Hamburg Sternschanze";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;207;µg/m³
+Hamburg;DEHH008;"Hamburg Sternschanze";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Hamburg;DEHH008;"Hamburg Sternschanze";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;105;µg/m³
+Hamburg;DEHH047;"Hamburg Bramfeld";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;151;µg/m³
+Hamburg;DEHH047;"Hamburg Bramfeld";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;214;µg/m³
+Hamburg;DEHH047;"Hamburg Bramfeld";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;137;µg/m³
+Hamburg;DEHH047;"Hamburg Bramfeld";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Hamburg;DEHH050;"Hamburg Neugraben";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Hamburg;DEHH050;"Hamburg Neugraben";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;203;µg/m³
+Hamburg;DEHH050;"Hamburg Neugraben";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Hamburg;DEHH050;"Hamburg Neugraben";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Mecklenburg-Vorpommern;DEMV004;Gülzow;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;129;µg/m³
+Mecklenburg-Vorpommern;DEMV004;Gülzow;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Mecklenburg-Vorpommern;DEMV004;Gülzow;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Mecklenburg-Vorpommern;DEMV004;Gülzow;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Mecklenburg-Vorpommern;DEMV007;Rostock-Stuthof;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+Mecklenburg-Vorpommern;DEMV007;Rostock-Stuthof;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Mecklenburg-Vorpommern;DEMV007;Rostock-Stuthof;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;135;µg/m³
+Mecklenburg-Vorpommern;DEMV007;Rostock-Stuthof;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Mecklenburg-Vorpommern;DEMV012;Löcknitz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;157;µg/m³
+Mecklenburg-Vorpommern;DEMV012;Löcknitz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Mecklenburg-Vorpommern;DEMV012;Löcknitz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;156;µg/m³
+Mecklenburg-Vorpommern;DEMV012;Löcknitz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;154;µg/m³
+Mecklenburg-Vorpommern;DEMV017;Göhlen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;131;µg/m³
+Mecklenburg-Vorpommern;DEMV017;Göhlen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Mecklenburg-Vorpommern;DEMV017;Göhlen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Mecklenburg-Vorpommern;DEMV017;Göhlen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Mecklenburg-Vorpommern;DEMV019;Güstrow;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;131;µg/m³
+Mecklenburg-Vorpommern;DEMV019;Güstrow;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;139;µg/m³
+Mecklenburg-Vorpommern;DEMV019;Güstrow;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;129;µg/m³
+Mecklenburg-Vorpommern;DEMV019;Güstrow;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;111;µg/m³
+Mecklenburg-Vorpommern;DEMV021;Rostock-Warnemünde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;132;µg/m³
+Mecklenburg-Vorpommern;DEMV021;Rostock-Warnemünde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;143;µg/m³
+Mecklenburg-Vorpommern;DEMV021;Rostock-Warnemünde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Mecklenburg-Vorpommern;DEMV021;Rostock-Warnemünde;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;106;µg/m³
+Mecklenburg-Vorpommern;DEMV024;Leizen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Mecklenburg-Vorpommern;DEMV024;Leizen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;140;µg/m³
+Mecklenburg-Vorpommern;DEMV024;Leizen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;150;µg/m³
+Mecklenburg-Vorpommern;DEMV024;Leizen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;130;µg/m³
+Mecklenburg-Vorpommern;DEMV026;Garz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;139;µg/m³
+Mecklenburg-Vorpommern;DEMV026;Garz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Mecklenburg-Vorpommern;DEMV026;Garz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;156;µg/m³
+Mecklenburg-Vorpommern;DEMV026;Garz;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;120;µg/m³
+Niedersachsen;DENI011;Braunschweig;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Niedersachsen;DENI011;Braunschweig;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;144;µg/m³
+Niedersachsen;DENI011;Braunschweig;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Niedersachsen;DENI011;Braunschweig;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Niedersachsen;DENI016;Oker/Harlingerode;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;125;µg/m³
+Niedersachsen;DENI016;Oker/Harlingerode;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;140;µg/m³
+Niedersachsen;DENI016;Oker/Harlingerode;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Niedersachsen;DENI016;Oker/Harlingerode;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Niedersachsen;DENI020;Wolfsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+Niedersachsen;DENI020;Wolfsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Niedersachsen;DENI020;Wolfsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Niedersachsen;DENI020;Wolfsburg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Niedersachsen;DENI029;Ostfriesland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+Niedersachsen;DENI029;Ostfriesland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;120;µg/m³
+Niedersachsen;DENI029;Ostfriesland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;85;µg/m³
+Niedersachsen;DENI029;Ostfriesland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;82;µg/m³
+Niedersachsen;DENI031;Jadebusen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;155;µg/m³
+Niedersachsen;DENI031;Jadebusen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;118;µg/m³
+Niedersachsen;DENI031;Jadebusen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;102;µg/m³
+Niedersachsen;DENI031;Jadebusen;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;82;µg/m³
+Niedersachsen;DENI038;Osnabrück;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;160;µg/m³
+Niedersachsen;DENI038;Osnabrück;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;174;µg/m³
+Niedersachsen;DENI038;Osnabrück;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;135;µg/m³
+Niedersachsen;DENI038;Osnabrück;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Niedersachsen;DENI041;Weserbergland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Niedersachsen;DENI041;Weserbergland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;165;µg/m³
+Niedersachsen;DENI041;Weserbergland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Niedersachsen;DENI041;Weserbergland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Niedersachsen;DENI042;Göttingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+Niedersachsen;DENI042;Göttingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Niedersachsen;DENI042;Göttingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Niedersachsen;DENI042;Göttingen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Niedersachsen;DENI043;Emsland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;192;µg/m³
+Niedersachsen;DENI043;Emsland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;162;µg/m³
+Niedersachsen;DENI043;Emsland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Niedersachsen;DENI043;Emsland;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;104;µg/m³
+Niedersachsen;DENI051;Wurmberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Niedersachsen;DENI051;Wurmberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;139;µg/m³
+Niedersachsen;DENI051;Wurmberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;133;µg/m³
+Niedersachsen;DENI051;Wurmberg;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;130;µg/m³
+Niedersachsen;DENI052;Allertal;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Niedersachsen;DENI052;Allertal;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;171;µg/m³
+Niedersachsen;DENI052;Allertal;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Niedersachsen;DENI052;Allertal;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;106;µg/m³
+Niedersachsen;DENI054;Hannover;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;127;µg/m³
+Niedersachsen;DENI054;Hannover;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Niedersachsen;DENI054;Hannover;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Niedersachsen;DENI054;Hannover;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;101;µg/m³
+Niedersachsen;DENI058;"Ostfries. Inseln";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;171;µg/m³
+Niedersachsen;DENI058;"Ostfries. Inseln";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Niedersachsen;DENI058;"Ostfries. Inseln";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;97;µg/m³
+Niedersachsen;DENI058;"Ostfries. Inseln";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;88;µg/m³
+Niedersachsen;DENI059;Elbmündung;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;157;µg/m³
+Niedersachsen;DENI059;Elbmündung;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;126;µg/m³
+Niedersachsen;DENI059;Elbmündung;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;110;µg/m³
+Niedersachsen;DENI059;Elbmündung;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Niedersachsen;DENI060;Wendland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Niedersachsen;DENI060;Wendland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Niedersachsen;DENI060;Wendland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Niedersachsen;DENI060;Wendland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;105;µg/m³
+Niedersachsen;DENI062;"Lüneburger Heide";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Niedersachsen;DENI062;"Lüneburger Heide";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;163;µg/m³
+Niedersachsen;DENI062;"Lüneburger Heide";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Niedersachsen;DENI062;"Lüneburger Heide";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Niedersachsen;DENI063;"Altes Land";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;150;µg/m³
+Niedersachsen;DENI063;"Altes Land";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;213;µg/m³
+Niedersachsen;DENI063;"Altes Land";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Niedersachsen;DENI063;"Altes Land";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Niedersachsen;DENI077;Solling-Süd;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Niedersachsen;DENI077;Solling-Süd;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Niedersachsen;DENI077;Solling-Süd;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;107;µg/m³
+Niedersachsen;DENI077;Solling-Süd;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Nordrhein-Westfalen;DENW006;Lünen-Niederaden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;166;µg/m³
+Nordrhein-Westfalen;DENW006;Lünen-Niederaden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;164;µg/m³
+Nordrhein-Westfalen;DENW006;Lünen-Niederaden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;146;µg/m³
+Nordrhein-Westfalen;DENW006;Lünen-Niederaden;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;104;µg/m³
+Nordrhein-Westfalen;DENW008;Dortmund-Eving;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;156;µg/m³
+Nordrhein-Westfalen;DENW008;Dortmund-Eving;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Nordrhein-Westfalen;DENW008;Dortmund-Eving;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;149;µg/m³
+Nordrhein-Westfalen;DENW008;Dortmund-Eving;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Nordrhein-Westfalen;DENW015;Marl-Sickingmühle;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;152;µg/m³
+Nordrhein-Westfalen;DENW015;Marl-Sickingmühle;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Nordrhein-Westfalen;DENW015;Marl-Sickingmühle;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Nordrhein-Westfalen;DENW015;Marl-Sickingmühle;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;87;µg/m³
+Nordrhein-Westfalen;DENW038;Mülheim-Styrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;192;µg/m³
+Nordrhein-Westfalen;DENW038;Mülheim-Styrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Nordrhein-Westfalen;DENW038;Mülheim-Styrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;130;µg/m³
+Nordrhein-Westfalen;DENW038;Mülheim-Styrum;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Nordrhein-Westfalen;DENW042;Krefeld-Linn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;195;µg/m³
+Nordrhein-Westfalen;DENW042;Krefeld-Linn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Nordrhein-Westfalen;DENW042;Krefeld-Linn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Nordrhein-Westfalen;DENW042;Krefeld-Linn;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Nordrhein-Westfalen;DENW053;Köln-Chorweiler;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;177;µg/m³
+Nordrhein-Westfalen;DENW053;Köln-Chorweiler;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Nordrhein-Westfalen;DENW053;Köln-Chorweiler;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;154;µg/m³
+Nordrhein-Westfalen;DENW053;Köln-Chorweiler;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Nordrhein-Westfalen;DENW059;Köln-Rodenkirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;161;µg/m³
+Nordrhein-Westfalen;DENW059;Köln-Rodenkirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;130;µg/m³
+Nordrhein-Westfalen;DENW059;Köln-Rodenkirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;146;µg/m³
+Nordrhein-Westfalen;DENW059;Köln-Rodenkirchen;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;76;µg/m³
+Nordrhein-Westfalen;DENW064;"Simmerath (Eifel)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;119;µg/m³
+Nordrhein-Westfalen;DENW064;"Simmerath (Eifel)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;108;µg/m³
+Nordrhein-Westfalen;DENW064;"Simmerath (Eifel)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;112;µg/m³
+Nordrhein-Westfalen;DENW064;"Simmerath (Eifel)";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;71;µg/m³
+Nordrhein-Westfalen;DENW065;"Netphen Rothaargebirge";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;168;µg/m³
+Nordrhein-Westfalen;DENW065;"Netphen Rothaargebirge";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;160;µg/m³
+Nordrhein-Westfalen;DENW065;"Netphen Rothaargebirge";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;120;µg/m³
+Nordrhein-Westfalen;DENW065;"Netphen Rothaargebirge";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;107;µg/m³
+Nordrhein-Westfalen;DENW067;Bielefeld-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Nordrhein-Westfalen;DENW067;Bielefeld-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Nordrhein-Westfalen;DENW067;Bielefeld-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;128;µg/m³
+Nordrhein-Westfalen;DENW067;Bielefeld-Ost;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Nordrhein-Westfalen;DENW068;Soest-Ost;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+Nordrhein-Westfalen;DENW068;Soest-Ost;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Nordrhein-Westfalen;DENW068;Soest-Ost;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;138;µg/m³
+Nordrhein-Westfalen;DENW068;Soest-Ost;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;89;µg/m³
+Nordrhein-Westfalen;DENW071;Düsseldorf-Lörick;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;186;µg/m³
+Nordrhein-Westfalen;DENW071;Düsseldorf-Lörick;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Nordrhein-Westfalen;DENW071;Düsseldorf-Lörick;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;133;µg/m³
+Nordrhein-Westfalen;DENW071;Düsseldorf-Lörick;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;88;µg/m³
+Nordrhein-Westfalen;DENW078;Ratingen-Tiefenbroich;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;184;µg/m³
+Nordrhein-Westfalen;DENW078;Ratingen-Tiefenbroich;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;150;µg/m³
+Nordrhein-Westfalen;DENW078;Ratingen-Tiefenbroich;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;140;µg/m³
+Nordrhein-Westfalen;DENW078;Ratingen-Tiefenbroich;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Nordrhein-Westfalen;DENW079;Leverkusen-Manfort;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;159;µg/m³
+Nordrhein-Westfalen;DENW079;Leverkusen-Manfort;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;127;µg/m³
+Nordrhein-Westfalen;DENW079;Leverkusen-Manfort;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Nordrhein-Westfalen;DENW079;Leverkusen-Manfort;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+Nordrhein-Westfalen;DENW080;Solingen-Wald;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;173;µg/m³
+Nordrhein-Westfalen;DENW080;Solingen-Wald;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Nordrhein-Westfalen;DENW080;Solingen-Wald;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;152;µg/m³
+Nordrhein-Westfalen;DENW080;Solingen-Wald;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Nordrhein-Westfalen;DENW081;Borken-Gemen;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;-;µg/m³
+Nordrhein-Westfalen;DENW081;Borken-Gemen;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Nordrhein-Westfalen;DENW081;Borken-Gemen;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Nordrhein-Westfalen;DENW081;Borken-Gemen;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Nordrhein-Westfalen;DENW094;Aachen-Burtscheid;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;125;µg/m³
+Nordrhein-Westfalen;DENW094;Aachen-Burtscheid;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;119;µg/m³
+Nordrhein-Westfalen;DENW094;Aachen-Burtscheid;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Nordrhein-Westfalen;DENW094;Aachen-Burtscheid;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Nordrhein-Westfalen;DENW095;Münster-Geist;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;167;µg/m³
+Nordrhein-Westfalen;DENW095;Münster-Geist;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;144;µg/m³
+Nordrhein-Westfalen;DENW095;Münster-Geist;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Nordrhein-Westfalen;DENW095;Münster-Geist;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;110;µg/m³
+Nordrhein-Westfalen;DENW096;Mönchengladbach-Rheydt;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;123;µg/m³
+Nordrhein-Westfalen;DENW096;Mönchengladbach-Rheydt;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;127;µg/m³
+Nordrhein-Westfalen;DENW096;Mönchengladbach-Rheydt;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Nordrhein-Westfalen;DENW096;Mönchengladbach-Rheydt;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Nordrhein-Westfalen;DENW114;Wuppertal-Langerfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;170;µg/m³
+Nordrhein-Westfalen;DENW114;Wuppertal-Langerfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;126;µg/m³
+Nordrhein-Westfalen;DENW114;Wuppertal-Langerfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;145;µg/m³
+Nordrhein-Westfalen;DENW114;Wuppertal-Langerfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Nordrhein-Westfalen;DENW179;Schwerte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;151;µg/m³
+Nordrhein-Westfalen;DENW179;Schwerte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;148;µg/m³
+Nordrhein-Westfalen;DENW179;Schwerte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;144;µg/m³
+Nordrhein-Westfalen;DENW179;Schwerte;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Nordrhein-Westfalen;DENW247;"Essen-Schuir (LANUV)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;172;µg/m³
+Nordrhein-Westfalen;DENW247;"Essen-Schuir (LANUV)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;144;µg/m³
+Nordrhein-Westfalen;DENW247;"Essen-Schuir (LANUV)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;150;µg/m³
+Nordrhein-Westfalen;DENW247;"Essen-Schuir (LANUV)";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Rheinland-Pfalz;DERP001;Ludwigshafen-Oppau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Rheinland-Pfalz;DERP001;Ludwigshafen-Oppau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;165;µg/m³
+Rheinland-Pfalz;DERP001;Ludwigshafen-Oppau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Rheinland-Pfalz;DERP001;Ludwigshafen-Oppau;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Rheinland-Pfalz;DERP007;Mainz-Mombach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;181;µg/m³
+Rheinland-Pfalz;DERP007;Mainz-Mombach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;177;µg/m³
+Rheinland-Pfalz;DERP007;Mainz-Mombach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;151;µg/m³
+Rheinland-Pfalz;DERP007;Mainz-Mombach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;109;µg/m³
+Rheinland-Pfalz;DERP013;Westpfalz-Waldmohr;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;124;µg/m³
+Rheinland-Pfalz;DERP013;Westpfalz-Waldmohr;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Rheinland-Pfalz;DERP013;Westpfalz-Waldmohr;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Rheinland-Pfalz;DERP013;Westpfalz-Waldmohr;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;101;µg/m³
+Rheinland-Pfalz;DERP014;Hunsrück-Leisel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Rheinland-Pfalz;DERP014;Hunsrück-Leisel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;129;µg/m³
+Rheinland-Pfalz;DERP014;Hunsrück-Leisel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;111;µg/m³
+Rheinland-Pfalz;DERP014;Hunsrück-Leisel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Rheinland-Pfalz;DERP015;"Westeifel Wascheid";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Rheinland-Pfalz;DERP015;"Westeifel Wascheid";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;115;µg/m³
+Rheinland-Pfalz;DERP015;"Westeifel Wascheid";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Rheinland-Pfalz;DERP015;"Westeifel Wascheid";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Rheinland-Pfalz;DERP016;Westerwald-Herdorf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;152;µg/m³
+Rheinland-Pfalz;DERP016;Westerwald-Herdorf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;167;µg/m³
+Rheinland-Pfalz;DERP016;Westerwald-Herdorf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Rheinland-Pfalz;DERP016;Westerwald-Herdorf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;105;µg/m³
+Rheinland-Pfalz;DERP017;Pfälzerwald-Hortenkopf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;167;µg/m³
+Rheinland-Pfalz;DERP017;Pfälzerwald-Hortenkopf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Rheinland-Pfalz;DERP017;Pfälzerwald-Hortenkopf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;121;µg/m³
+Rheinland-Pfalz;DERP017;Pfälzerwald-Hortenkopf;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;106;µg/m³
+Rheinland-Pfalz;DERP019;Kaiserslautern-Rathausplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;113;µg/m³
+Rheinland-Pfalz;DERP019;Kaiserslautern-Rathausplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;125;µg/m³
+Rheinland-Pfalz;DERP019;Kaiserslautern-Rathausplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;116;µg/m³
+Rheinland-Pfalz;DERP019;Kaiserslautern-Rathausplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Rheinland-Pfalz;DERP021;Neuwied-Hafenstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;141;µg/m³
+Rheinland-Pfalz;DERP021;Neuwied-Hafenstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Rheinland-Pfalz;DERP021;Neuwied-Hafenstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;108;µg/m³
+Rheinland-Pfalz;DERP021;Neuwied-Hafenstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+Rheinland-Pfalz;DERP022;"Bad Kreuznach-Bosenheimer Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;124;µg/m³
+Rheinland-Pfalz;DERP022;"Bad Kreuznach-Bosenheimer Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Rheinland-Pfalz;DERP022;"Bad Kreuznach-Bosenheimer Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Rheinland-Pfalz;DERP022;"Bad Kreuznach-Bosenheimer Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Rheinland-Pfalz;DERP025;Wörth-Marktplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;161;µg/m³
+Rheinland-Pfalz;DERP025;Wörth-Marktplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;170;µg/m³
+Rheinland-Pfalz;DERP025;Wörth-Marktplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Rheinland-Pfalz;DERP025;Wörth-Marktplatz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;87;µg/m³
+Rheinland-Pfalz;DERP028;Westerwald-Neuhäusel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;148;µg/m³
+Rheinland-Pfalz;DERP028;Westerwald-Neuhäusel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Rheinland-Pfalz;DERP028;Westerwald-Neuhäusel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Rheinland-Pfalz;DERP028;Westerwald-Neuhäusel;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Rheinland-Pfalz;DERP053;Speyer-Nord;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;162;µg/m³
+Rheinland-Pfalz;DERP053;Speyer-Nord;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Rheinland-Pfalz;DERP053;Speyer-Nord;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;129;µg/m³
+Rheinland-Pfalz;DERP053;Speyer-Nord;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Rheinland-Pfalz;DERP060;Pirmasens-Innenstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;128;µg/m³
+Rheinland-Pfalz;DERP060;Pirmasens-Innenstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;109;µg/m³
+Rheinland-Pfalz;DERP060;Pirmasens-Innenstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Rheinland-Pfalz;DERP060;Pirmasens-Innenstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Saarland;DESL002;"Bexbach Schule";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;125;µg/m³
+Saarland;DESL002;"Bexbach Schule";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Saarland;DESL002;"Bexbach Schule";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Saarland;DESL002;"Bexbach Schule";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Saarland;DESL010;Saarbrücken-Burbach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;105;µg/m³
+Saarland;DESL010;Saarbrücken-Burbach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;113;µg/m³
+Saarland;DESL010;Saarbrücken-Burbach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;106;µg/m³
+Saarland;DESL010;Saarbrücken-Burbach;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;79;µg/m³
+Saarland;DESL011;Saarbrücken-Eschberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;121;µg/m³
+Saarland;DESL011;Saarbrücken-Eschberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;127;µg/m³
+Saarland;DESL011;Saarbrücken-Eschberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Saarland;DESL011;Saarbrücken-Eschberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Saarland;DESL012;Saarbrücken-City;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;119;µg/m³
+Saarland;DESL012;Saarbrücken-City;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;116;µg/m³
+Saarland;DESL012;Saarbrücken-City;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;98;µg/m³
+Saarland;DESL012;Saarbrücken-City;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;77;µg/m³
+Saarland;DESL017;"Völklingen-City Stadionstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;116;µg/m³
+Saarland;DESL017;"Völklingen-City Stadionstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;117;µg/m³
+Saarland;DESL017;"Völklingen-City Stadionstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;110;µg/m³
+Saarland;DESL017;"Völklingen-City Stadionstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;87;µg/m³
+Saarland;DESL019;Biringen;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;120;µg/m³
+Saarland;DESL019;Biringen;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;104;µg/m³
+Saarland;DESL019;Biringen;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Saarland;DESL019;Biringen;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Schleswig-Holstein;DESH001;Altendeich;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Schleswig-Holstein;DESH001;Altendeich;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;174;µg/m³
+Schleswig-Holstein;DESH001;Altendeich;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;109;µg/m³
+Schleswig-Holstein;DESH001;Altendeich;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Schleswig-Holstein;DESH008;Bornhöved;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;152;µg/m³
+Schleswig-Holstein;DESH008;Bornhöved;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;151;µg/m³
+Schleswig-Holstein;DESH008;Bornhöved;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Schleswig-Holstein;DESH008;Bornhöved;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Schleswig-Holstein;DESH013;Fehmarn;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;137;µg/m³
+Schleswig-Holstein;DESH013;Fehmarn;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;166;µg/m³
+Schleswig-Holstein;DESH013;Fehmarn;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;127;µg/m³
+Schleswig-Holstein;DESH013;Fehmarn;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Schleswig-Holstein;DESH014;St.-Peter-Ording;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;168;µg/m³
+Schleswig-Holstein;DESH014;St.-Peter-Ording;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Schleswig-Holstein;DESH014;St.-Peter-Ording;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;111;µg/m³
+Schleswig-Holstein;DESH014;St.-Peter-Ording;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Schleswig-Holstein;DESH015;Itzehoe;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;161;µg/m³
+Schleswig-Holstein;DESH015;Itzehoe;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;169;µg/m³
+Schleswig-Holstein;DESH015;Itzehoe;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;111;µg/m³
+Schleswig-Holstein;DESH015;Itzehoe;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Schleswig-Holstein;DESH016;Barsbüttel;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;139;µg/m³
+Schleswig-Holstein;DESH016;Barsbüttel;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;163;µg/m³
+Schleswig-Holstein;DESH016;Barsbüttel;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;120;µg/m³
+Schleswig-Holstein;DESH016;Barsbüttel;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;170;µg/m³
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Schleswig-Holstein;DESH035;"Brunsbüttel-Cuxhavener Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Schleswig-Holstein;DESH035;"Brunsbüttel-Cuxhavener Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;140;µg/m³
+Schleswig-Holstein;DESH035;"Brunsbüttel-Cuxhavener Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;91;µg/m³
+Schleswig-Holstein;DESH035;"Brunsbüttel-Cuxhavener Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;79;µg/m³
+Schleswig-Holstein;DESH056;Eggebek;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;164;µg/m³
+Schleswig-Holstein;DESH056;Eggebek;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Schleswig-Holstein;DESH056;Eggebek;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;110;µg/m³
+Schleswig-Holstein;DESH056;Eggebek;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;84;µg/m³
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;144;µg/m³
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;105;µg/m³
+Sachsen;DESN001;Annaberg-Buchholz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;139;µg/m³
+Sachsen;DESN001;Annaberg-Buchholz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Sachsen;DESN001;Annaberg-Buchholz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;135;µg/m³
+Sachsen;DESN001;Annaberg-Buchholz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Sachsen;DESN004;Bautzen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Sachsen;DESN004;Bautzen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Sachsen;DESN004;Bautzen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;140;µg/m³
+Sachsen;DESN004;Bautzen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;129;µg/m³
+Sachsen;DESN045;Zittau-Ost;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;128;µg/m³
+Sachsen;DESN045;Zittau-Ost;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;124;µg/m³
+Sachsen;DESN045;Zittau-Ost;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Sachsen;DESN045;Zittau-Ost;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;129;µg/m³
+Sachsen;DESN049;Carlsfeld;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;127;µg/m³
+Sachsen;DESN049;Carlsfeld;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Sachsen;DESN049;Carlsfeld;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;140;µg/m³
+Sachsen;DESN049;Carlsfeld;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;117;µg/m³
+Sachsen;DESN051;Radebeul-Wahnsdorf;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;118;µg/m³
+Sachsen;DESN051;Radebeul-Wahnsdorf;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;121;µg/m³
+Sachsen;DESN051;Radebeul-Wahnsdorf;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;141;µg/m³
+Sachsen;DESN051;Radebeul-Wahnsdorf;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;104;µg/m³
+Sachsen;DESN052;Zinnwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Sachsen;DESN052;Zinnwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Sachsen;DESN052;Zinnwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;163;µg/m³
+Sachsen;DESN052;Zinnwald;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;181;µg/m³
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;132;µg/m³
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;126;µg/m³
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Sachsen;DESN074;Schwartenberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Sachsen;DESN074;Schwartenberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Sachsen;DESN074;Schwartenberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;167;µg/m³
+Sachsen;DESN074;Schwartenberg;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;132;µg/m³
+Sachsen;DESN076;Collmberg;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;132;µg/m³
+Sachsen;DESN076;Collmberg;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;124;µg/m³
+Sachsen;DESN076;Collmberg;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;145;µg/m³
+Sachsen;DESN076;Collmberg;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;126;µg/m³
+Sachsen;DESN079;Niesky;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+Sachsen;DESN079;Niesky;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Sachsen;DESN079;Niesky;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;131;µg/m³
+Sachsen;DESN079;Niesky;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;125;µg/m³
+Sachsen;DESN080;Schkeuditz;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;-;µg/m³
+Sachsen;DESN080;Schkeuditz;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Sachsen;DESN080;Schkeuditz;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Sachsen;DESN080;Schkeuditz;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Sachsen;DESN092;Dresden-Winckelmannstr.;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;127;µg/m³
+Sachsen;DESN092;Dresden-Winckelmannstr.;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;131;µg/m³
+Sachsen;DESN092;Dresden-Winckelmannstr.;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;151;µg/m³
+Sachsen;DESN092;Dresden-Winckelmannstr.;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;111;µg/m³
+Sachsen;DESN093;Brockau;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;127;µg/m³
+Sachsen;DESN093;Brockau;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Sachsen;DESN093;Brockau;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;129;µg/m³
+Sachsen;DESN093;Brockau;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;92;µg/m³
+Sachsen;DESN104;"Chemnitz Hans-Link-Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;149;µg/m³
+Sachsen;DESN104;"Chemnitz Hans-Link-Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;146;µg/m³
+Sachsen;DESN104;"Chemnitz Hans-Link-Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;140;µg/m³
+Sachsen;DESN104;"Chemnitz Hans-Link-Straße";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Sachsen-Anhalt;DEST002;Burg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Sachsen-Anhalt;DEST002;Burg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Sachsen-Anhalt;DEST002;Burg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;129;µg/m³
+Sachsen-Anhalt;DEST002;Burg;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;111;µg/m³
+Sachsen-Anhalt;DEST011;Wernigerode/Bahnhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;121;µg/m³
+Sachsen-Anhalt;DEST011;Wernigerode/Bahnhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Sachsen-Anhalt;DEST011;Wernigerode/Bahnhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;123;µg/m³
+Sachsen-Anhalt;DEST011;Wernigerode/Bahnhof;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;111;µg/m³
+Sachsen-Anhalt;DEST028;Zeitz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;135;µg/m³
+Sachsen-Anhalt;DEST028;Zeitz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Sachsen-Anhalt;DEST028;Zeitz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;120;µg/m³
+Sachsen-Anhalt;DEST028;Zeitz;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Sachsen-Anhalt;DEST039;Brocken;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Sachsen-Anhalt;DEST039;Brocken;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Sachsen-Anhalt;DEST039;Brocken;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;133;µg/m³
+Sachsen-Anhalt;DEST039;Brocken;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;130;µg/m³
+Sachsen-Anhalt;DEST044;Halberstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;137;µg/m³
+Sachsen-Anhalt;DEST044;Halberstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Sachsen-Anhalt;DEST044;Halberstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Sachsen-Anhalt;DEST044;Halberstadt;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Sachsen-Anhalt;DEST050;Halle/Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;146;µg/m³
+Sachsen-Anhalt;DEST050;Halle/Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;-;µg/m³
+Sachsen-Anhalt;DEST050;Halle/Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Sachsen-Anhalt;DEST050;Halle/Nord;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Sachsen-Anhalt;DEST066;Wittenberg/Bahnstrasse;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Sachsen-Anhalt;DEST066;Wittenberg/Bahnstrasse;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Sachsen-Anhalt;DEST066;Wittenberg/Bahnstrasse;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;151;µg/m³
+Sachsen-Anhalt;DEST066;Wittenberg/Bahnstrasse;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;112;µg/m³
+Sachsen-Anhalt;DEST077;Magdeburg/West;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;139;µg/m³
+Sachsen-Anhalt;DEST077;Magdeburg/West;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Sachsen-Anhalt;DEST077;Magdeburg/West;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Sachsen-Anhalt;DEST077;Magdeburg/West;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;110;µg/m³
+Sachsen-Anhalt;DEST089;Zartau/Waldstation;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;152;µg/m³
+Sachsen-Anhalt;DEST089;Zartau/Waldstation;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;153;µg/m³
+Sachsen-Anhalt;DEST089;Zartau/Waldstation;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Sachsen-Anhalt;DEST089;Zartau/Waldstation;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Sachsen-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Sachsen-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Sachsen-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;118;µg/m³
+Sachsen-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;99;µg/m³
+Sachsen-Anhalt;DEST104;"Domäne Bobbe";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Sachsen-Anhalt;DEST104;"Domäne Bobbe";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Sachsen-Anhalt;DEST104;"Domäne Bobbe";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;128;µg/m³
+Sachsen-Anhalt;DEST104;"Domäne Bobbe";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;107;µg/m³
+Sachsen-Anhalt;DEST105;"Stendal Stadtsee";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;131;µg/m³
+Sachsen-Anhalt;DEST105;"Stendal Stadtsee";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Sachsen-Anhalt;DEST105;"Stendal Stadtsee";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Sachsen-Anhalt;DEST105;"Stendal Stadtsee";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;113;µg/m³
+Sachsen-Anhalt;DEST106;"Goldene Aue (Roßla)";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Sachsen-Anhalt;DEST106;"Goldene Aue (Roßla)";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Sachsen-Anhalt;DEST106;"Goldene Aue (Roßla)";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Sachsen-Anhalt;DEST106;"Goldene Aue (Roßla)";"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Thüringen;DETH005;Saalfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;119;µg/m³
+Thüringen;DETH005;Saalfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;126;µg/m³
+Thüringen;DETH005;Saalfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;115;µg/m³
+Thüringen;DETH005;Saalfeld;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Thüringen;DETH009;"Gera Friedericistr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Thüringen;DETH009;"Gera Friedericistr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Thüringen;DETH009;"Gera Friedericistr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Thüringen;DETH009;"Gera Friedericistr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Thüringen;DETH011;"Altenburg Theaterplatz";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;142;µg/m³
+Thüringen;DETH011;"Altenburg Theaterplatz";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+Thüringen;DETH011;"Altenburg Theaterplatz";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;137;µg/m³
+Thüringen;DETH011;"Altenburg Theaterplatz";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Thüringen;DETH013;"Eisenach Werneburgstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;119;µg/m³
+Thüringen;DETH013;"Eisenach Werneburgstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Thüringen;DETH013;"Eisenach Werneburgstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Thüringen;DETH013;"Eisenach Werneburgstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;98;µg/m³
+Thüringen;DETH018;Nordhausen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+Thüringen;DETH018;Nordhausen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;131;µg/m³
+Thüringen;DETH018;Nordhausen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;122;µg/m³
+Thüringen;DETH018;Nordhausen;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Thüringen;DETH020;"Erfurt Krämpferstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Thüringen;DETH020;"Erfurt Krämpferstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;147;µg/m³
+Thüringen;DETH020;"Erfurt Krämpferstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;123;µg/m³
+Thüringen;DETH020;"Erfurt Krämpferstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;114;µg/m³
+Thüringen;DETH026;Dreißigacker;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;125;µg/m³
+Thüringen;DETH026;Dreißigacker;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Thüringen;DETH026;Dreißigacker;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;115;µg/m³
+Thüringen;DETH026;Dreißigacker;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Thüringen;DETH027;Neuhaus;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;122;µg/m³
+Thüringen;DETH027;Neuhaus;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;133;µg/m³
+Thüringen;DETH027;Neuhaus;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;136;µg/m³
+Thüringen;DETH027;Neuhaus;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;113;µg/m³
+Thüringen;DETH036;"Greiz Mollbergstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;133;µg/m³
+Thüringen;DETH036;"Greiz Mollbergstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;143;µg/m³
+Thüringen;DETH036;"Greiz Mollbergstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;132;µg/m³
+Thüringen;DETH036;"Greiz Mollbergstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Thüringen;DETH041;"Jena Dammstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;138;µg/m³
+Thüringen;DETH041;"Jena Dammstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+Thüringen;DETH041;"Jena Dammstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;112;µg/m³
+Thüringen;DETH041;"Jena Dammstr.";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Thüringen;DETH042;Possen;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Thüringen;DETH042;Possen;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;129;µg/m³
+Thüringen;DETH042;Possen;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Thüringen;DETH042;Possen;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;114;µg/m³
+Thüringen;DETH061;Hummelshain;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;137;µg/m³
+Thüringen;DETH061;Hummelshain;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;135;µg/m³
+Thüringen;DETH061;Hummelshain;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;-;µg/m³
+Thüringen;DETH061;Hummelshain;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;-;µg/m³
+Thüringen;DETH095;"Mühlhausen Bastmarkt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;134;µg/m³
+Thüringen;DETH095;"Mühlhausen Bastmarkt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;139;µg/m³
+Thüringen;DETH095;"Mühlhausen Bastmarkt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Thüringen;DETH095;"Mühlhausen Bastmarkt";"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;100;µg/m³
+Thüringen;DETH117;"Erfurt Bautzener Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;124;µg/m³
+Thüringen;DETH117;"Erfurt Bautzener Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;132;µg/m³
+Thüringen;DETH117;"Erfurt Bautzener Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Thüringen;DETH117;"Erfurt Bautzener Weg";"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;110;µg/m³
+UBA;DEUB001;Westerland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;184;µg/m³
+UBA;DEUB001;Westerland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+UBA;DEUB001;Westerland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;110;µg/m³
+UBA;DEUB001;Westerland;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;90;µg/m³
+UBA;DEUB004;Schauinsland;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;126;µg/m³
+UBA;DEUB004;Schauinsland;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;90;µg/m³
+UBA;DEUB004;Schauinsland;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;90;µg/m³
+UBA;DEUB004;Schauinsland;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;73;µg/m³
+UBA;DEUB005;Waldhof;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;147;µg/m³
+UBA;DEUB005;Waldhof;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;170;µg/m³
+UBA;DEUB005;Waldhof;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;128;µg/m³
+UBA;DEUB005;Waldhof;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;107;µg/m³
+UBA;DEUB028;Zingst;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;136;µg/m³
+UBA;DEUB028;Zingst;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+UBA;DEUB028;Zingst;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;174;µg/m³
+UBA;DEUB028;Zingst;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;115;µg/m³
+UBA;DEUB029;Schmücke;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;128;µg/m³
+UBA;DEUB029;Schmücke;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;137;µg/m³
+UBA;DEUB029;Schmücke;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;142;µg/m³
+UBA;DEUB029;Schmücke;"ländliches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;134;µg/m³
+UBA;DEUB030;Neuglobsow;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;150;µg/m³
+UBA;DEUB030;Neuglobsow;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;138;µg/m³
+UBA;DEUB030;Neuglobsow;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;145;µg/m³
+UBA;DEUB030;Neuglobsow;"ländlich regional";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;113;µg/m³
+UBA;DEUB046;Forellenbach;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;131;µg/m³
+UBA;DEUB046;Forellenbach;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;127;µg/m³
+UBA;DEUB046;Forellenbach;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;123;µg/m³
+UBA;DEUB046;Forellenbach;"ländlich abgelegen";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;132;µg/m³
+Nordrhein-Westfalen;DENW405;Wesel-Obrighoven;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;184;µg/m³
+Nordrhein-Westfalen;DENW405;Wesel-Obrighoven;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;159;µg/m³
+Nordrhein-Westfalen;DENW405;Wesel-Obrighoven;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;119;µg/m³
+Nordrhein-Westfalen;DENW405;Wesel-Obrighoven;"ländlich stadtnah";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Brandenburg;DEBB111;Elsterwerda;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;130;µg/m³
+Brandenburg;DEBB111;Elsterwerda;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Brandenburg;DEBB111;Elsterwerda;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;154;µg/m³
+Brandenburg;DEBB111;Elsterwerda;"vorstädtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;114;µg/m³
+Hessen;DEHE159;Frankfurt-Riedberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;168;µg/m³
+Hessen;DEHE159;Frankfurt-Riedberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;163;µg/m³
+Hessen;DEHE159;Frankfurt-Riedberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;139;µg/m³
+Hessen;DEHE159;Frankfurt-Riedberg;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Hessen;DEHE160;Mörfelden;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;173;µg/m³
+Hessen;DEHE160;Mörfelden;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;195;µg/m³
+Hessen;DEHE160;Mörfelden;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;138;µg/m³
+Hessen;DEHE160;Mörfelden;"städtisches Gebiet";Hintergrund;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;104;µg/m³
+Brandenburg;DEBB029;"Schwedt (Oder)";"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;137;µg/m³
+Brandenburg;DEBB029;"Schwedt (Oder)";"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Brandenburg;DEBB029;"Schwedt (Oder)";"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;157;µg/m³
+Brandenburg;DEBB029;"Schwedt (Oder)";"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;147;µg/m³
+Brandenburg;DEBB032;Eisenhüttenstadt;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Brandenburg;DEBB032;Eisenhüttenstadt;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Brandenburg;DEBB032;Eisenhüttenstadt;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;171;µg/m³
+Brandenburg;DEBB032;Eisenhüttenstadt;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;138;µg/m³
+Baden-Württemberg;DEBW005;Mannheim-Nord;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;166;µg/m³
+Baden-Württemberg;DEBW005;Mannheim-Nord;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;176;µg/m³
+Baden-Württemberg;DEBW005;Mannheim-Nord;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;148;µg/m³
+Baden-Württemberg;DEBW005;Mannheim-Nord;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;107;µg/m³
+Baden-Württemberg;DEBW022;Kehl;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;153;µg/m³
+Baden-Württemberg;DEBW022;Kehl;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;170;µg/m³
+Baden-Württemberg;DEBW022;Kehl;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;126;µg/m³
+Baden-Württemberg;DEBW022;Kehl;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Bremen;DEHB013;Bremen-Hasenbüren;"ländlich regional";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;145;µg/m³
+Bremen;DEHB013;Bremen-Hasenbüren;"ländlich regional";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Bremen;DEHB013;Bremen-Hasenbüren;"ländlich regional";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;113;µg/m³
+Bremen;DEHB013;Bremen-Hasenbüren;"ländlich regional";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;103;µg/m³
+Niedersachsen;DENI053;Südoldenburg;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;167;µg/m³
+Niedersachsen;DENI053;Südoldenburg;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;145;µg/m³
+Niedersachsen;DENI053;Südoldenburg;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Niedersachsen;DENI053;Südoldenburg;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;95;µg/m³
+Niedersachsen;DENI070;Salzgitter-Drütte;"ländliches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;121;µg/m³
+Niedersachsen;DENI070;Salzgitter-Drütte;"ländliches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;134;µg/m³
+Niedersachsen;DENI070;Salzgitter-Drütte;"ländliches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;114;µg/m³
+Niedersachsen;DENI070;Salzgitter-Drütte;"ländliches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;89;µg/m³
+Nordrhein-Westfalen;DENW021;Bottrop-Welheim;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;189;µg/m³
+Nordrhein-Westfalen;DENW021;Bottrop-Welheim;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;142;µg/m³
+Nordrhein-Westfalen;DENW021;Bottrop-Welheim;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;142;µg/m³
+Nordrhein-Westfalen;DENW021;Bottrop-Welheim;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+Nordrhein-Westfalen;DENW034;Duisburg-Walsum;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;179;µg/m³
+Nordrhein-Westfalen;DENW034;Duisburg-Walsum;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;154;µg/m³
+Nordrhein-Westfalen;DENW034;Duisburg-Walsum;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;126;µg/m³
+Nordrhein-Westfalen;DENW034;Duisburg-Walsum;"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;94;µg/m³
+Nordrhein-Westfalen;DENW058;Hürth;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;162;µg/m³
+Nordrhein-Westfalen;DENW058;Hürth;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;136;µg/m³
+Nordrhein-Westfalen;DENW058;Hürth;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;163;µg/m³
+Nordrhein-Westfalen;DENW058;Hürth;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;93;µg/m³
+Nordrhein-Westfalen;DENW074;Niederzier;"ländlich stadtnah";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;129;µg/m³
+Nordrhein-Westfalen;DENW074;Niederzier;"ländlich stadtnah";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;128;µg/m³
+Nordrhein-Westfalen;DENW074;Niederzier;"ländlich stadtnah";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;124;µg/m³
+Nordrhein-Westfalen;DENW074;Niederzier;"ländlich stadtnah";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;78;µg/m³
+Rheinland-Pfalz;DERP047;Trier-Pfalzel;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;127;µg/m³
+Rheinland-Pfalz;DERP047;Trier-Pfalzel;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;118;µg/m³
+Rheinland-Pfalz;DERP047;Trier-Pfalzel;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;108;µg/m³
+Rheinland-Pfalz;DERP047;Trier-Pfalzel;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Saarland;DESL003;"Dillingen City";"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;114;µg/m³
+Saarland;DESL003;"Dillingen City";"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;104;µg/m³
+Saarland;DESL003;"Dillingen City";"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;117;µg/m³
+Saarland;DESL003;"Dillingen City";"städtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;85;µg/m³
+Sachsen-Anhalt;DEST015;Bitterfeld/Wolfen;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;143;µg/m³
+Sachsen-Anhalt;DEST015;Bitterfeld/Wolfen;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;131;µg/m³
+Sachsen-Anhalt;DEST015;Bitterfeld/Wolfen;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;139;µg/m³
+Sachsen-Anhalt;DEST015;Bitterfeld/Wolfen;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;108;µg/m³
+Sachsen-Anhalt;DEST090;Leuna;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;140;µg/m³
+Sachsen-Anhalt;DEST090;Leuna;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;141;µg/m³
+Sachsen-Anhalt;DEST090;Leuna;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;125;µg/m³
+Sachsen-Anhalt;DEST090;Leuna;"vorstädtisches Gebiet";Industrie;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Bremen;DEHB006;Bremen-Dobben;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;113;µg/m³
+Bremen;DEHB006;Bremen-Dobben;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;103;µg/m³
+Bremen;DEHB006;Bremen-Dobben;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;91;µg/m³
+Bremen;DEHB006;Bremen-Dobben;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;79;µg/m³
+Rheinland-Pfalz;DERP023;Worms-Hagenstraße;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;167;µg/m³
+Rheinland-Pfalz;DERP023;Worms-Hagenstraße;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;180;µg/m³
+Rheinland-Pfalz;DERP023;Worms-Hagenstraße;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;147;µg/m³
+Rheinland-Pfalz;DERP023;Worms-Hagenstraße;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;97;µg/m³
+Rheinland-Pfalz;DERP024;Koblenz-Friedrich-Ebert-Ring;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;128;µg/m³
+Rheinland-Pfalz;DERP024;Koblenz-Friedrich-Ebert-Ring;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;127;µg/m³
+Rheinland-Pfalz;DERP024;Koblenz-Friedrich-Ebert-Ring;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;101;µg/m³
+Rheinland-Pfalz;DERP024;Koblenz-Friedrich-Ebert-Ring;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;86;µg/m³
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;122;µg/m³
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;121;µg/m³
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;116;µg/m³
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;96;µg/m³
+Sachsen;DESN061;Dresden-Nord;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;115;µg/m³
+Sachsen;DESN061;Dresden-Nord;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;117;µg/m³
+Sachsen;DESN061;Dresden-Nord;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;126;µg/m³
+Sachsen;DESN061;Dresden-Nord;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;102;µg/m³
+Sachsen;DESN084;Dresden-Bergstr.;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";17.06.2021;-;109;µg/m³
+Sachsen;DESN084;Dresden-Bergstr.;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";18.06.2021;-;111;µg/m³
+Sachsen;DESN084;Dresden-Bergstr.;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";19.06.2021;-;128;µg/m³
+Sachsen;DESN084;Dresden-Bergstr.;"städtisches Gebiet";Verkehr;"Ozon (O₃)";"Ein-Stunden-Tagesmaxima (1SMW_MAX)";20.06.2021;-;91;µg/m³
+
+"Quelle: Umweltbundesamt, https://www.umweltbundesamt.de/daten/luft/luftdaten/stationen (Abruf: 21.06.2021). Alle Uhrzeiten sind in der jeweils zum Messzeitpunkt gültigen Zeit (MEZ bzw. MESZ) angegeben."

@@ -1,87 +1,138 @@
 import bs4
 import requests
 import pyodbc
-import json
+import sqlalchemy
+import urllib3
 import mysql.connector as mysql
-# mydb = mysql.connect( host='localhost', user='newuser',passwd= 'passwOrd', port=8888)
 import sqlite3
-for driver in pyodbc.drivers():
-    print (driver)
-db = pyodbc.connect('Driver={SQL Server};Server=LAPTOP-L06OLGV8;Database=Luftschadstoffbelastung_Daten;Uid=myUsername;Pwd=myPassword;')
-source =  pyodbc.SQLDataSources(pyodbc.SQL_FETCH_FIRST)
-while source:
-    print(source)
-    source = pyodbc.SQLDataSources(pyodbc.SQL_FETCH_NEXT)
+from sqlalchemy import create_engine
+import xlrd
+import pandas as pd
+import openpyxl
+import json
+### establish and manipulate sql with python
 
-credentials = None
-with open('/var/run/secrets/user_credentials/mysql_credentials') as f:
-    credentials = json.load(f)
+#######################################
+# Connect to mysql database
+mydb = mysql.connect(
+    # always : localhost
+    host="localhost",
+    # always : root
+    user="root",
+    # password for sql db
+    passwd="Admiral01!",
+    # points toward targeted database: relevant only after creating the database
+    database="Luftschadstoffbelastung"
+)
+# sqlite3 connection
+conn=sqlite3.connect('Luftschadstoffbelastung')
+# prove that connection is established
+# print (mydb)
 
-# Ensure your credentials were setup
-if credentials:
-    # Connect to the DB
-    connection = mysql.connect(
-        user=credentials.get('username'),
-        password=credentials.get('password'),
-        database='employees',
-        host='support-mysql.dev.anaconda.com'
-    )
-    cursor = connection.cursor()
+########################################
 
-    # Execute the query
-    cursor.execute("SELECT first_name, last_name FROM employees LIMIT 20")
+#### Manipulate
 
-    # Loop through the results
-    for first_name, last_name in cursor:
-        print(f'First name: {first_name}, Last name: {last_name}')
+# initialize command/storing structure
+mycursor = mydb.cursor()
 
-
-
-def read(conn):
-
-    print("Read")
-    cursor = conn.cursor()
-    cursor.execute("select * from Luftschadstoffbelastung")
-    for row in cursor:
-        print(f'row={row}')
-        print()
-
-# conn_str = (
-#     r'DRIVER = {MySQL ODBC 8.0 Unicode Driver};'
-#     r'SERVER=LAPTOP-L06OLGV8;'
-#     r'DATABASE=Luftschadstoffbelastung_Daten;'
-#     r'Trusted_Connection=yes;'
-# )
+# execute sql commands
 #
-# conn= pyodbc.connect(
-#     conn_str
-# )
-# connection = pymysql.connect(host='localhost', user='root', passwd= 'passwOrd', db= 'Luftschadstoffbelastung')
-# cursor = connection.cursor()
-# sql = ('select  * from Luftschadstoffbelastung_Daten')
-#
-# read(conn)
-#
-# conn.close
+
+# create database
+# mycursor.execute("Create Database testdb")
 
 
-# url = 'https://www.umweltbundesamt.de/daten/luft/luftdaten/stationen/eJzrXpScv9BwUXEykEhJXGVkYGSoa2Cma2i5qCRzkaHRorzUBYuKSxYsSUl0K0LIGgH5IfnIqpMTJyzKrWJblJvctDgnseS0g-eqea8a5Y4vzslLP-2gcs7F4ZPFbAANaivJ'
-# sourcecode =requests.get(url)
-# html=sourcecode.content
+# collect all databases: proof of existence
+# mycursor.execute("show Databases")
+# print result
+# for db in mycursor:
+#    print (db)
+
+# create table
+# mycursor.execute("create table pyschadstoff (Stationscode integer(10), Stationsname Varchar(30), Verschmutzung Integer(10))")
+
+# collect all table data: proof of existence
+# mycursor.execute("show tables")
+# for tb in mycursor:
+#     print(tb)
+
+#######################################################################################################################
+#######################################################################################################################
+
+### fetch from excel
+
+
+
+# manual scraping
+#### writo to excel file
+###chose date range in june 2021
+# for i in range(15, 21):
+#     r = requests.get('https://www.umweltbundesamt.de/api/air_data/v2/measures/csv?date_from=2021-06-'+ str(i) + '&time_from=12&date_to=2021-06-20&time_to=12&data%5B0%5D%5Bco%5D=3&data%5B0%5D%5Bsc%5D=3&lang=de')
 #
-# soup = bs4.BeautifulSoup(html, "lxml")
-# html = sourcecode.content
+# # # gets commands/items on webpage
+# # # print(help(r))
+# #
+# # write as csv file and store on in project folder
+#     with open('Luftverschmutzung'+ str(i) + '.csv', 'wb' ) as f:
+#          f.write(r.content)
+
+#print text in unicode(html)
+#print(r.text)
+
+
+##########################################################
+
+###### use newly created excel files to fill sql table
+# pd.set_option('display.max_columns', None)   #or 1000
+# pd.set_option('display.max_rows', None)   #or 1000
+# pd.set_option('display.max_colwidth', -1)   #or 199
+
+# read the excel files
+
+
+
+##read all excel and store in sql
+# for i in range(15, 21):
+#     df = pd.read_csv('Luftverschmutzung'+str(i)+'.csv', delimiter=';',  error_bad_lines=False)
+# #print(df)
+# #print(df.head())
+#     engine = sqlalchemy.create_engine('mysql+pymysql://root:Admiral01!@localhost:3306/Luftschadstoffbelastung')
 #
-# tables = soup.findAll("table")
-# tableMatrix = []
-# for table in tables:
-#     #Here you can do whatever you want with the data! You can findAll table row headers, etc...
-#     list_of_rows = []
-#     list_of_cells = []
-#     for row in table.findAll('en')[1:]:
-#         for cell in row.findAll('en'):
-#             text = cell.text.replace('&nbsp;', '')
-#             list_of_cells.append(text)
-#         list_of_rows.append(list_of_cells)
-#     tableMatrix.append((list_of_rows, list_of_cells))
-# print(tableMatrix)
+#     df.to_sql('test1', con=engine, if_exists='append')
+#
+
+# df= pd.DataFrame({"a":[1,2,3]})
+# print(df)
+#df.to_sql('test1', con=conn, if_exists='replace')
+
+     #get sheet names(we only have one)
+# sheet_names = xls.sheet_names
+#      #get info for one sheet
+# df = pd.read_excel(xls, "Events")
+# df.tail()
+
+
+
+
+
+
+
+
+# API Scraping
+
+# api_key= None;
+
+##
+
+# https://www.umweltbundesamt.de/api/air_data/v2/airquality/json?date_from=2019-08-01&date_to=2019-08-01&time_from=11&time_to=17&station=857
+
+
+
+url= f'https://www.umweltbundesamt.de/api/air_data/v2/measures/json?date_from=2018-05-05&date_to=2018-05-10&time_from=1&time_to=24&station=1778&component=1&scope=1'
+### param =dict(...)
+data = requests.get(url=url).json()
+#formatieren: json in string
+print(json.dumps(data, indent =4))
+
+print(data['request'])
