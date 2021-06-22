@@ -14,16 +14,16 @@ import json
 
 #######################################
 # Connect to mysql database
-mydb = mysql.connect(
-    # always : localhost
-    host="localhost",
-    # always : root
-    user="root",
-    # password for sql db
-    passwd="Admiral01!",
-    # points toward targeted database: relevant only after creating the database
-    database="Luftschadstoffbelastung"
-)
+# mydb = mysql.connect(
+#     # always : localhost
+#     host="localhost",
+#     # always : root
+#     user="root",
+#     # password for sql db
+#     passwd="",
+#     # points toward targeted database: relevant only after creating the database
+#     database="Luftschadstoffbelastung"
+# )
 # sqlite3 connection
 conn=sqlite3.connect('Luftschadstoffbelastung')
 # prove that connection is established
